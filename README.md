@@ -1524,4 +1524,3 @@ print(best_score)
 # Conclusion
 
 The accuracy of our model using XGBoost is 86%. Different parameters with different value can be used further improve the accuracy. However, for my level of experience, I am content with this.
-# houseprice_ames_iowa
